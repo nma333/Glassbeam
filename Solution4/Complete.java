@@ -117,7 +117,7 @@ public class Writedata {
 		Scanner sc = new Scanner(System.in);
 		while (true) {
 			System.out.println("Enter the score :");
-//			read();
+			read();
 			show();
 			Thread.sleep(5000);
 		}
