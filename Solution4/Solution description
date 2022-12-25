@@ -1,0 +1,14 @@
+	In this below program a user can interact with the user for every 5 seconds at max.
+	N number of users can enters the score at a time 
+	The person who have entered the recent score will be saved.
+	For the reference I have created three folder 
+1.	UDP-Channel-1
+2.	UDP-Channel-2
+3.	Create
+The file 1 and file 2 functions are same as you described in the question . But I have created the json file Create.json only used to read the input from the user and store .
+	The  application works well , as you mentioned in the problem statement.
+	Here I have used the while loop for the continuous run of the program .
+	Here I have used the json in the java programs . Please run the program in the eclipse IDE and keep the name of the file as it is…….
+	Here I have used java Threads to sleep the window for 5 seconds.
+	The description for the code is commented in the program it self.
+	And I also push all the codes in the git hub the link is  as follows:
