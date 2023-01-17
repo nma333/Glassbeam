@@ -1,0 +1,5 @@
+#Tue Jan 17 00:26:41 IST 2023
+Password=Naveen*333
+Place=Ilkal
+UserName=Naveen
+email=naveenank2001@gmail.com
