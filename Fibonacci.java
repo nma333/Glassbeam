@@ -15,7 +15,7 @@ public class Fibonacci {
 	public static void main(String[] args) {
 		System.out.println("Eneter the number of fibonacci series to print:");
 		Scanner sc=new Scanner(System.in);
-		int n=5
+		int n=5;
 		fib(n);
 		sc.close();
 
